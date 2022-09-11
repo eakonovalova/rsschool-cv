@@ -7,7 +7,7 @@
 
 ## Short info
 I have been working as a software quality engineer for 5 years.  
-My specialization is web projects, and I want to improve my skills.
+My specialization is web projects, and I want to improve my knowledge.
 
 ## Key skills
 * JS, TS
@@ -18,7 +18,8 @@ My specialization is web projects, and I want to improve my skills.
 
 ## Code examples
 >Реализуйте и экспортируйте функцию getMutualFriends(), которая принимает на вход двух пользователей и возвращает массив состоящий из общих друзей этих пользователей.  
-[Full task description.](https://github.com/eakonovalova/Hexlet-courses/blob/main/JS%20An%20Introduction%20to%20OOP/Learning%20tasks/getMutualFriends.js)
+[Full task description.](https://github.com/eakonovalova/Hexlet-courses/blob/main/JS%20An%20Introduction%20to%20OOP/Learning%20tasks/getMutualFriends.js)  
+
 ```
 export const getMutualFriends = (user1, user2) => {
 
@@ -46,8 +47,8 @@ I'm responsible for:
 * Setting up ci and automating checks for the most critical scenarios
 
 ## Education
-Plekhanov Russian University of Economics - Bachelor.  
-Hexlet courses https://ru.hexlet.io/u/eakonovalova
+[Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx) - Bachelor.  
+[Hexlet courses](https://ru.hexlet.io/u/eakonovalova)
 
 ## Languages
 * English - B1
