@@ -18,8 +18,9 @@ My specialization is web projects, and I want to improve my knowledge.
 
 ## Code examples
 >Реализуйте и экспортируйте функцию getMutualFriends(), которая принимает на вход двух пользователей и возвращает массив состоящий из общих друзей этих пользователей.  
-[Full task description.](https://github.com/eakonovalova/Hexlet-courses/blob/main/JS%20An%20Introduction%20to%20OOP/Learning%20tasks/getMutualFriends.js)  
+[Full task description.](https://github.com/eakonovalova/Hexlet-courses/blob/main/JS%20An%20Introduction%20to%20OOP/Learning%20tasks/getMutualFriends.js)<
 
+My solution:
 ```
 export const getMutualFriends = (user1, user2) => {
 
